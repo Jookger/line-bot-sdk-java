@@ -17,9 +17,9 @@ This is tempalte file for configuration.
 Please copy as `application.yml` and change your value.
 
 line.bot:
-  channel-token: 'Put Your Channel Token Here.'
-  channel-secret: 'Put Your Channel Secret Here.'
-  handler.path: /callback
+  channel-token: 'aGkroOrR/n5Ct/471Ba0KaXnEcpZcijDlQanZRlt8DnPeb8NvuXcivks1GqC3ZHxs5M2ZC04cEY1kBhRh5u6XLAoqZ4E85tGOfaTlJGXMyJ6IF9k/EOy+LtWflm8c7WFcmKRESWelPulzmPZdaI1HwdB04t89/1O/w1cDnyilFU='
+  channel-secret: '35fc552dd71a9a1102c6f633ad873cf7'
+  handler.path: ⅔/callback
 
 # To remove Client wire logs. Please comment out following lines.
 # See: https://docs.spring.io/spring-boot/docs/current/reference/html/howto-logging.html
